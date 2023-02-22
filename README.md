@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://foodvalley-backend.asmittechis.repl.co/) here!
 1. Git Clone
 
 ```
-git clone https://github.com/rupesh6565/Food-Valley.git
+git clone https://github.com/AsmitTechIS/Food-Valley-Main.git
 ```
 
 2. Backend setting
